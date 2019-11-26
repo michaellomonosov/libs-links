@@ -8,3 +8,5 @@ https://gatling.io/
 https://github.com/codesenberg/bombardier
 
 parser https://github.com/nreco/lambdaparser
+
+https://github.com/force-net/DeepCloner

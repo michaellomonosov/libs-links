@@ -12,3 +12,6 @@ parser https://github.com/nreco/lambdaparser
 https://github.com/force-net/DeepCloner
 
 https://github.com/neuecc/ZeroFormatter
+
+automaper
+https://github.com/MapsterMapper/Mapster

@@ -19,3 +19,5 @@ https://github.com/MapsterMapper/Mapster
 https://github.com/sprache/Sprache
 
 https://grafana.com/grafana/plugins/vertamedia-clickhouse-datasource
+
+https://github.com/reactiveui/refit

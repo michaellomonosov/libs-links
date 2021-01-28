@@ -23,3 +23,4 @@ https://grafana.com/grafana/plugins/vertamedia-clickhouse-datasource
 https://github.com/reactiveui/refit
 
 https://josef.codes/httpclient-error-handling-a-test-driven-approach/
+https://github.com/microsoft/playwright-sharp

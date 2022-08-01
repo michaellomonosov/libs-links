@@ -27,3 +27,5 @@ https://josef.codes/httpclient-error-handling-a-test-driven-approach/
 https://github.com/microsoft/playwright-sharp
 
 https://github.com/quozd/awesome-dotnet
+
+https://github.com/datalust/superpower
